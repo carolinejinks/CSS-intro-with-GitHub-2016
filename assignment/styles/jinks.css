@@ -1,0 +1,47 @@
+/*  add your styles below
+    Keep all the comments I have provided.
+    Where I have commented "keep," DO NOT touch that line!
+    */
+
+body {
+    background: #7eccb9; /* change */
+    color: #fff; /* change */
+    font-family: Calibri, Arial, sans-serif; /* keep */
+}
+
+article {
+    width: 800px; /* keep */
+    padding: 20px; /* keep */
+    margin: auto; /* keep */
+    border: 1px solid; /* can delete */
+    background: #65b88f;
+}
+
+/* add your styles here */
+header, footer {
+    color: #000;
+    background: #e9c3eb;
+  }
+
+aside {
+    background: #7eccb9;
+    color: #000;
+}
+
+figure {
+    background: #a6ff9c;
+    color: #000
+}
+
+/* add your pseudo classes below this line */
+a:link { color: #5b2ac5; }
+a:visited { color: #308540; }
+a:focus { color: #7eccb9; }
+a:hover { color: #5fc770; }
+a:active { color: #c53fc7; }
+
+footer a:link { color: #881eb8; }
+footer a:visited { color: #5b5178; }
+footer a:focus { color: #537fcc; }
+footer a:hover { color: #5fc770; }
+footer a:active { color: #c53fc7; }
